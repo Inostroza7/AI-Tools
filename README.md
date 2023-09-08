@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/Inostroza7/AI-Tools/blob/main/AI_Tools_Course_Template.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # 🛠️ AI Tools 🤖
 
 ## Descripción 📝
